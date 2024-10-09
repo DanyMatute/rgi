@@ -22,8 +22,8 @@ dependencies:
   - zlib
   - prodigal 2.6.3
   - pyrodigal >=3.0.0
-  - diamond 
-  - oligoarrayaux 
+  - diamond
+  - bioconda::oligoarrayaux
   - samtools
   - bamtools 
   - bedtools >=2.28.0
